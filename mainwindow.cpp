@@ -1,7 +1,8 @@
 #include "MainWindow.h"
 #include "ui_MainWindow.h"
 
-//тестовая запись для проверки гитхаб develop
+
+//тестовая запись для проверки гитхаб main
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
