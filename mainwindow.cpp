@@ -3,6 +3,7 @@
 
 
 //тестовая запись для проверки гитхаб main
+//another text
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
